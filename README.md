@@ -9,7 +9,7 @@ This project implements a spam detection model using Natural Language Processing
 
 git clone <https://github.com/VardaanGulati20/Spam-Detection-Model>
 
-cd <Spam-Detection-Model>
+cd Spam-Detection-Model
 
 2️⃣ Open the Jupyter Notebook in Google Colab
 
