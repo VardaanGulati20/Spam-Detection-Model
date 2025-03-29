@@ -4,13 +4,25 @@
 This project implements a spam detection model using Natural Language Processing (NLP) and Machine Learning. The model classifies messages as Spam (1) or Not Spam (0) with a high accuracy of 98.21%.
 
 🚀 How to Run the Project
- 1️⃣ Clone the Repository
-    git clone <your-repo-link>
-    cd <repo-folder>
- 2️⃣ Install Dependencies  
-    pip install -r requirements.txt
- 3️⃣ Run the Model
-    python spam_detector.py
+1️⃣ Clone the Repository
+git clone <repository-url>
+cd <repository-name>
+2️⃣ Open the Jupyter Notebook in Google Colab
+
+Upload spam.ipynb to your Google Drive.
+
+Open Google Colab and select "File" → "Upload Notebook".
+
+3️⃣ Run the Notebook Cells
+
+Click "Runtime" → "Run all" in Google Colab.
+
+Make sure to install dependencies if required:
+
+!pip install -r requirements.txt
+
+
+ 
     
 📊 Model Performance
 Accuracy: 98.21%
